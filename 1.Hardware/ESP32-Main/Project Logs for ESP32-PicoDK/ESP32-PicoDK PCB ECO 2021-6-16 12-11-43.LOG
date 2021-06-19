@@ -1,0 +1,38 @@
+Added Component: Designator=C14(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW1.27 SMD-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=TF1(Micro SD)
+Add component (AddParameter): Name = "BOM名称"; Value = "TF卡座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费技术支持"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GPIO26 Pin=SW?-5
+Added Pin To Net: NetName=GPIO14 Pin=SW?-6
+Added Pin To Net: NetName=GPIO13 Pin=SW?-7
+Added Pin To Net: NetName=GPIO15 Pin=SW?-8
+Added Pin To Net: NetName=GND Pin=TF1-6
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=GND Pin=TF1-10
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=TF1-4
+Added Net: Name=3V3
+Added Pin To Net: NetName=SD_CLK Pin=SW?-3
+Added Pin To Net: NetName=SD_CLK Pin=TF1-5
+Added Net: Name=SD_CLK
+Added Pin To Net: NetName=SD_CS Pin=SW?-1
+Added Pin To Net: NetName=SD_CS Pin=TF1-2
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MISO Pin=SW?-4
+Added Pin To Net: NetName=SD_MISO Pin=TF1-7
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=SW?-2
+Added Pin To Net: NetName=SD_MOSI Pin=TF1-3
+Added Net: Name=SD_MOSI
+Added Member To Class: ClassName=Main Member=Component C14 100nf
+Added Member To Class: ClassName=Main Member=Component SW? SW-4P
+Added Member To Class: ClassName=Main Member=Component TF1 TF_Card

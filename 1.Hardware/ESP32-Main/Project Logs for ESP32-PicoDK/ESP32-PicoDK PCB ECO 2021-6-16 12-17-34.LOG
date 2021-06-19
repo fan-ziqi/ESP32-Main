@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=VBUS Pin=R1-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R2-1
+Removed Pin From Net: NetName=3V3A Pin=R2-2
+Removed Pin From Net: NetName=CP_Tx Pin=R3-1
+Removed Pin From Net: NetName=DTR Pin=R4-1
+Removed Pin From Net: NetName=RTS Pin=R5-1
+Removed Pin From Net: NetName=3V3A Pin=R6-1
+Removed Pin From Net: NetName=EN Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=CAN_L Pin=R15-2
+Change Component Footprint: Designator=R1 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R2 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R3 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R4 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R5 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R6 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R7 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R8 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Footprint: Designator=R15 Old Footprint=RES_0402 New Footprint=R0402_L
+Change Component Comment : Designator=R2 Old Comment=0R New Comment=200R
+Change Component Comment : Designator=R7 Old Comment=5.1K New Comment=10K
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=120R
+Change Component Comment : Designator=R15 Old Comment=120R New Comment=5.1K
+Change Component Comment : Designator=R3 Old Comment=200R New Comment=0R
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0402"; UniqueID = "\NFGKYDJS" ("\NFGKYDJS")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES_0402"; UniqueID = "\BYSIVYWJ" ("\BYSIVYWJ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_0402"; UniqueID = "\VREMOWPF" ("\VREMOWPF")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES_0402"; UniqueID = "\NRTGFGXK" ("\NRTGFGXK")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_0402"; UniqueID = "\GRMSGPDG" ("\GRMSGPDG")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES_0402"; UniqueID = "\EXXDEKHE" ("\EXXDEKHE")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES_0402"; UniqueID = "\MRKSTDBQ" ("\MRKSTDBQ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES_0402"; UniqueID = "\PQFAOGSM" ("\PQFAOGSM")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES_0402"; UniqueID = "\DLVHJGQS" ("\DLVHJGQS")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CP_Tx Pin=R2-2
+Added Pin To Net: NetName=DTR Pin=R4-2
+Added Pin To Net: NetName=RTS Pin=R5-2
+Added Pin To Net: NetName=CAN_L Pin=R6-2
+Added Pin To Net: NetName=SD_MISO Pin=R18-1
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=SD_MOSI Pin=R19-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=SD_CLK Pin=R20-1
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=SD_CS Pin=R21-1
+Added Pin To Net: NetName=3V3 Pin=R21-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-26
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=SW_CAN-4
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=USB1-A5
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=USB1-B5
+Added Net: Name=NetR15_2
+Added Member To Class: ClassName=Main Member=Component R18 10K
+Added Member To Class: ClassName=Main Member=Component R19 10K
+Added Member To Class: ClassName=Main Member=Component R20 10K
+Added Member To Class: ClassName=Main Member=Component R21 10K

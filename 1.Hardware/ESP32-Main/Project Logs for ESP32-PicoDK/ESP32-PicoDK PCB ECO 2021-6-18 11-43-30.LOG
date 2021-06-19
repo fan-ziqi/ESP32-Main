@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=VBUS Pin=R1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3A Pin=R3-2
+Added Pin To Net: NetName=EN Pin=R7-1
+Added Pin To Net: NetName=3V3A Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-9
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT1-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=VT2-1
+Added Net: Name=NetR5_1

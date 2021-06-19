@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=CAN_H Pin=P1-1
+Removed Pin From Net: NetName=CAN_L Pin=P1-2
+Removed Pin From Net: NetName=SENSOR_VP Pin=P2-1
+Removed Pin From Net: NetName=GPIO37 Pin=P2-2
+Removed Pin From Net: NetName=GPIO38 Pin=P2-3
+Removed Pin From Net: NetName=SENSOR_VN Pin=P2-4
+Removed Pin From Net: NetName=GPIO35 Pin=P2-5
+Removed Pin From Net: NetName=GPIO34 Pin=P2-6
+Removed Pin From Net: NetName=GPIO12 Pin=P2-7
+Removed Pin From Net: NetName=GPIO5 Pin=P2-8
+Removed Pin From Net: NetName=GPIO2 Pin=P2-9
+Removed Pin From Net: NetName=GPIO0 Pin=P2-10
+Removed Pin From Net: NetName=VCC_3V3 Pin=P2-11
+Removed Pin From Net: NetName=VBUS Pin=P2-12
+Removed Pin From Net: NetName=GPIO26 Pin=P3-1
+Removed Pin From Net: NetName=GPIO25 Pin=P3-2
+Removed Pin From Net: NetName=GPIO23 Pin=P3-3
+Removed Pin From Net: NetName=GPIO22 Pin=P3-4
+Removed Pin From Net: NetName=GPIO21 Pin=P3-5
+Removed Pin From Net: NetName=GPIO19 Pin=P3-6
+Removed Pin From Net: NetName=GPIO18 Pin=P3-7
+Removed Pin From Net: NetName=GPIO10 Pin=P3-8
+Removed Pin From Net: NetName=GPIO9 Pin=P3-9
+Removed Pin From Net: NetName=GPIO33 Pin=P3-10
+Removed Pin From Net: NetName=GPIO32 Pin=P3-11
+Removed Pin From Net: NetName=GPIO27 Pin=P3-12
+Removed Pin From Net: NetName=GPIO15 Pin=P3-13
+Removed Pin From Net: NetName=GPIO14 Pin=P3-14
+Removed Pin From Net: NetName=GPIO13 Pin=P3-15
+Removed Pin From Net: NetName=GPIO4 Pin=P3-16
+Removed Pin From Net: NetName=GND Pin=P3-17
+Removed Pin From Net: NetName=GND Pin=P3-18
+Removed Member From Class: ClassName=Main Member=P1
+Removed Member From Class: ClassName=Main Member=P2
+Removed Member From Class: ClassName=Main Member=P3
+Added Component: Designator=2(HDR2.54-LI-18P)
+Add component (AddParameter): Name = "BOM名称"; Value = "18P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(HDR2.54-LI-18P)
+Add component (AddParameter): Name = "BOM名称"; Value = "18P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SENSOR_VP Pin=2-1
+Added Pin To Net: NetName=GPIO37 Pin=2-2
+Added Pin To Net: NetName=GPIO38 Pin=2-3
+Added Pin To Net: NetName=SENSOR_VN Pin=2-4
+Added Pin To Net: NetName=GPIO35 Pin=2-5
+Added Pin To Net: NetName=GPIO34 Pin=2-6
+Added Pin To Net: NetName=GPIO12 Pin=2-7
+Added Pin To Net: NetName=GPIO5 Pin=2-8
+Added Pin To Net: NetName=GPIO2 Pin=2-9
+Added Pin To Net: NetName=GPIO0 Pin=2-10
+Added Pin To Net: NetName=VCC_3V3 Pin=2-11
+Added Pin To Net: NetName=VCC_3V3 Pin=2-12
+Added Pin To Net: NetName=VBUS Pin=2-13
+Added Pin To Net: NetName=VBUS Pin=2-14
+Added Pin To Net: NetName=GND Pin=2-15
+Added Pin To Net: NetName=GND Pin=2-16
+Added Pin To Net: NetName=GND Pin=2-17
+Added Pin To Net: NetName=GND Pin=2-18
+Added Pin To Net: NetName=GPIO26 Pin=JP1-1
+Added Pin To Net: NetName=GPIO25 Pin=JP1-2
+Added Pin To Net: NetName=GPIO23 Pin=JP1-3
+Added Pin To Net: NetName=GPIO22 Pin=JP1-4
+Added Pin To Net: NetName=GPIO21 Pin=JP1-5
+Added Pin To Net: NetName=GPIO19 Pin=JP1-6
+Added Pin To Net: NetName=GPIO18 Pin=JP1-7
+Added Pin To Net: NetName=GPIO10 Pin=JP1-8
+Added Pin To Net: NetName=GPIO9 Pin=JP1-9
+Added Pin To Net: NetName=GPIO33 Pin=JP1-10
+Added Pin To Net: NetName=GPIO32 Pin=JP1-11
+Added Pin To Net: NetName=GPIO27 Pin=JP1-12
+Added Pin To Net: NetName=GPIO15 Pin=JP1-13
+Added Pin To Net: NetName=GPIO14 Pin=JP1-14
+Added Pin To Net: NetName=GPIO13 Pin=JP1-15
+Added Pin To Net: NetName=GPIO4 Pin=JP1-16
+Added Pin To Net: NetName=CAN_L Pin=JP1-17
+Added Pin To Net: NetName=CAN_H Pin=JP1-18
+Added Member To Class: ClassName=Main Member=Component 2 HDR-1X18
+Added Member To Class: ClassName=Main Member=Component JP1 HDR-1X18

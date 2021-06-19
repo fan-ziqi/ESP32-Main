@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MPU_SDA Pin=J1-1
+Removed Pin From Net: NetName=GPIO32 Pin=J1-2
+Removed Pin From Net: NetName=MPU_SCL Pin=J2-1
+Removed Pin From Net: NetName=GPIO33 Pin=J2-2
+Removed Member From Class: ClassName=Main Member=J1
+Removed Member From Class: ClassName=Main Member=J2
+Added Component: Designator=SW_IMU(SW1.27 SMD-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MPU_SDA Pin=SW_IMU-1
+Added Pin To Net: NetName=MPU_SCL Pin=SW_IMU-2
+Added Pin To Net: NetName=GPIO33 Pin=SW_IMU-3
+Added Pin To Net: NetName=GPIO32 Pin=SW_IMU-4
+Added Member To Class: ClassName=Main Member=Component SW_IMU SW-2P

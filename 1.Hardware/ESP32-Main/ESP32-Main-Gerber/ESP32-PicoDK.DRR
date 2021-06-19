@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32-PicoDK.PcbDoc   2021/6/18  16:58:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top1 to Bottom2
+ASCII RoundHoles File : ESP32-PicoDK-RoundHoles.TXT
+ASCII SlotHoles File : ESP32-PicoDK-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             163       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             36        PTH        0.00inch (0.00mm)
+T5      79mil (2mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              211
+
+Total Processing Time (hh:mm:ss) : 00:00:00
