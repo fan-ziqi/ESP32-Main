@@ -19,8 +19,12 @@ void loop(void)
     u8g2.clearBuffer();
     u8g2.setCursor(0, 15);
     u8g2.print("Hello World!");
-    u8g2.setCursor(0, 40);
+    u8g2.setCursor(0, 32);
     u8g2.print("你好世界");        // Chinese "Hello World"
+    u8g2.setCursor(0, 55);
+    u8g2.print("Made By FZQ");        // Chinese "Hello World"
+    u8g2.setCursor(0, 70);
+    u8g2.print("@Github fan-ziqi");        // Chinese "Hello World"
     u8g2.sendBuffer();
 
     delay(1000);
