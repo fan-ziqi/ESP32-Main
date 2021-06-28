@@ -18,3 +18,11 @@ ST系列的MCU价格真的贵到离谱，F103ZET6现在都好几百一块了。
 > * SiP封装，外围电路极其简洁
 
 程序还是先咕咕了，最近期末考试再加上课设没有空写这个了
+
+![](1.Hardware/3DPCB.png)
+
+![](1.Hardware/PCB.png)
+
+2021.06.28
+
+@Github fan-ziqi
